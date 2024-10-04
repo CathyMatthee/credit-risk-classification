@@ -10,11 +10,11 @@ The purpose of this analysis is to determine the creditworthiness of borrowers t
 
  - **Accuracy:** The overall accuracy of the model was strong, reliably predicting the healthy and high-risk loans 99% of the time.
  - **Precision:**
-    - ***Healthy loans: The model predicted the healthy loans very well, in fact, it predicted 100% of them with regard to the precision score. There were no false positives for healthy loans. 
-    - ***High-risk loans: It also predicted the high risk loans to a high degree. This is evidenced by the precision value of 0.87 which is a measure of the false positives where 87% of predicted high risk loans were correctly predicted as high-risk loans but 13% were misclassified as high-risk when they were actually healthy.
- - **Recall:
-    - ***Healthy loans: The model predicted the healthy loans very well, in fact, it predicted 100% of them with regard to the recall score. There were no false negatives for healthy loans. 
-    - ***High-risk loans: The recall value of 0.89 which is a measure of the false negatives where 89% of actual high risk loans were correctly predicted as high risk loans but 11% were misclassified as healthy when they were actually high risk.
+    - ***Healthy loans:*** The model predicted the healthy loans very well, in fact, it predicted 100% of them with regard to the precision score. There were no false positives for healthy loans. 
+    - ***High-risk loans:*** It also predicted the high risk loans to a high degree. This is evidenced by the precision value of 0.87 which is a measure of the false positives where 87% of predicted high risk loans were correctly predicted as high-risk loans but 13% were misclassified as high-risk when they were actually healthy.
+ - **Recall:**
+    - ***Healthy loans:*** The model predicted the healthy loans very well, in fact, it predicted 100% of them with regard to the recall score. There were no false negatives for healthy loans. 
+    - ***High-risk loans:*** The recall value of 0.89 which is a measure of the false negatives where 89% of actual high risk loans were correctly predicted as high risk loans but 11% were misclassified as healthy when they were actually high risk.
 
 ## Summary of results
 
